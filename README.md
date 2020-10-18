@@ -21,4 +21,4 @@ npm install
 npm run dev
 ```
 
-Check in browser on [http://localhost:5000/](http://localhost:5000/)
+Check in browser on [http://localhost:3000/](http://localhost:3000/)
