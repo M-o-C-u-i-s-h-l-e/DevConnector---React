@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Kamalesh:Kamalesh@devconnector.s3tos.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "f4f160967bb34c220967",
+  "githubSecret": "57f68e9199103411ddcca765ec34332d53fe745d"
+}
