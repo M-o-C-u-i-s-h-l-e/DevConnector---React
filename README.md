@@ -22,13 +22,3 @@ npm run dev
 ```
 
 Check in browser on [http://localhost:5000/](http://localhost:5000/)
-
-## App Info
-
-### Author
-
-Kamaleshwaran
-
-### License
-
-This project is licensed under the MIT License
