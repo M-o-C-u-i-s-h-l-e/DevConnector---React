@@ -1,5 +1,9 @@
 # DevConnector - React
 
+```bash
+Create a developer profile/portfolio, share posts and get help from other developers
+```
+
 # Quick Start
 
 ### Install server dependencies
