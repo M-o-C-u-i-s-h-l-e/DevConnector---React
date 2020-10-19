@@ -1,6 +1,6 @@
 # DevConnector - React
 
-> **Create a developer profile/portfolio, share posts and get help from other developers
+> **Create a developer profile/portfolio, share posts and get help from other developers**
 
 # Quick Start
 
